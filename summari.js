@@ -54,24 +54,3 @@
 //  var number = number1 == number2;
 //  var number = number1 == number3;
 //  console.log(number);
-
-var money = 45;
-var paruti = 80;
-var kek = 50;
-var von = 40;
-var pektis = 20;
-if(paruti < money){
-    console.log('ami paruti nido');
-}
-else if(kek < money){
-    console.log('ami kek nibo')
-}
-else if(von < money){
-    console.log('ami bon nibo');
-}
-else if(pektis < money){
-    console.log('ami pektis khabo');
-}
-// else{
-//     console.log('amar kache taka nai');
-// }
